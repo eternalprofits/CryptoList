@@ -183,6 +183,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
 * [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Born in 2013, very active forum. Modern engine.
 * [Token Daily](https://www.tokendaily.co) - Crypto news, launches, white papers and Q&A with experts 📈
+* [Reliable ECash](https://www.reliable.cash) - Sustainable stable coins, reliable crypto currency, research, Milton Friedman's vision
 
 ## Other
 * [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
